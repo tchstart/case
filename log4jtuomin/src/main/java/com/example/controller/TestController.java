@@ -20,6 +20,6 @@ public class TestController {
 
     @Test
     public void test3(){
-        logger.info("姓名：{}，电话：{}","蜗牛哥哥","18351905928");
+        logger.info("姓名：{}，电话：{}","田老弟弟","18351905928");
     }
 }
